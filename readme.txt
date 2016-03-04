@@ -6,3 +6,4 @@ add git branch dev.
 add master.
 add branch1.
 add dev1.
+resolve bug1
